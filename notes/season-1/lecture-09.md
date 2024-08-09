@@ -2,6 +2,11 @@
 
 What is a **Block**?
 * Block aka *compound statement* is used to group JS statements together into 1 group. We group them within {...}
+
+* multiple statements {
+* let a = 10
+* console.log("test");
+* }
     ```js
     {
         var a = 10;
